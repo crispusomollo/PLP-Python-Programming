@@ -1,10 +1,12 @@
 # Python Programming
 
-Welcome to the **Python Programming Course**! This comprehensive course is designed to guide learners from the basics of Python to more advanced topics, preparing them to build and analyze real-world projects. Below is an overview of the weekly topics.
+Welcome to the **Python Programming Course**! This comprehensive course is designed to guide learners from the basics of Python to more advanced topics, preparing them to build and analyze real-world projects.
 
---
+This comprehensive course offers a solid foundation in computer programming using the versatile Python language. You'll learn fundamental programming concepts, algorithms, and best practices, leveraging Python's extensive standard library to create efficient and robust solutions. Through hands-on exercises and real-world projects, you'll develop the skills to design, implement, debug, and troubleshoot Python programs. 
 
-This comprehensive course offers a solid foundation in computer programming using the versatile Python language. You'll learn fundamental programming concepts, algorithms, and best practices, leveraging Python's extensive standard library to create efficient and robust solutions. Through hands-on exercises and real-world projects, you'll develop the skills to design, implement, debug, and troubleshoot Python programs. By the end of the course, you'll be equipped to write clear, concise, and efficient code and apply problem-solving techniques to real-world scenarios. Whether you're a beginner or looking to expand your programming skills, this course will empower you to become a proficient Python programmer.
+By the end of the course, you'll be equipped to write clear, concise, and efficient code and apply problem-solving techniques to real-world scenarios. Whether you're a beginner or looking to expand your programming skills, this course will empower you to become a proficient Python programmer.
+
+Below is an overview of the weekly topics.
 
 ## Course Outline
 
