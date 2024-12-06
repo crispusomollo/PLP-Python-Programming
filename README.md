@@ -10,7 +10,7 @@ Below is an overview of the weekly topics.
 
 ## Course Outline
 
-### Week 1: Introduction to Python
+### [Week 1: Introduction to Python] (https://github.com/crispusomollo/PLP-Python-Programming/tree/main/Week1_Introduction_To_Python)
 
 - Overview of Python
 - Setting up Python environment
