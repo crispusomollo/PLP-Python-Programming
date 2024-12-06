@@ -18,4 +18,4 @@ Use someone’s else code
 
 ### Introduction to Packages(Before Third Parties)
 
-The subject of packaging is an ever-evolving, overly complex part of Python development. Rather than focus on specific tools, the main focus of this section is on some general code organization principles that will prove useful no matter what tools you later use to give code away or manage dependencies.
+The subject of packaging is an ever-evolving, overly complex part of Python development. Rather than focus on specific tools, the main focus of this section is on some general code organization principles that will prove useful no matter what tools you later use to give code away or manage dependencies

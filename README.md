@@ -69,11 +69,13 @@ This comprehensive course offers a solid foundation in computer programming usin
    ```bash
    git clone <repository-url>
    ```
+
 2. Navigate to the project directory:
 
    ```bash
    cd <project-directory>
    ```
+
 3. Install the necessary dependencies:
 
    ```bash
