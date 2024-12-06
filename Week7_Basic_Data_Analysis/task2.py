@@ -26,4 +26,3 @@ print(highest_mean)
 
 print("\nCategory with the lowest mean 'Value':")
 print(lowest_mean)
-
