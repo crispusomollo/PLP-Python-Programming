@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 
 # Sample data
 data = pd.read_csv('dataset.csv')
+
 # Assume we have a 'Date' column and a 'Sales' column
 
 # Convert 'Date' column to datetime format
