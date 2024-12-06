@@ -32,3 +32,4 @@ data = data.fillna(data.mean())
 # Verify that missing values have been handled
 print("\nMissing values after cleaning:")
 print(data.isnull().sum())
+
