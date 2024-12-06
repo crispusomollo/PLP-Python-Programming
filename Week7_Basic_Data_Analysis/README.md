@@ -40,11 +40,10 @@
 
 ### Additional Instructions
 
-1. Dataset Suggestions: You can use publicly available datasets from sites like Kaggle or UCI Machine Learning Repository.
-The Iris dataset (a classic dataset for classification problems) can be accessed via sklearn.datasets.load_iris(), which can be used for the analysis.
+1. **Dataset Suggestions:** You can use publicly available datasets from sites like Kaggle or UCI Machine Learning Repository. The Iris dataset (a classic dataset for classification problems) can be accessed via sklearn.datasets.load_iris(), which can be used for the analysis.
 
-2. Plot Customization: Customize the plots using the matplotlib library to add titles, axis labels, and legends. Use seaborn for additional plotting styles, which can make your charts more visually appealing.
+2. **Plot Customization:** Customize the plots using the matplotlib library to add titles, axis labels, and legends. Use seaborn for additional plotting styles, which can make your charts more visually appealing.
 
-3. Error Handling: Handle possible errors during the file reading (e.g., file not found), missing data, or incorrect data types by using exception-handling mechanisms (try, except).
+3. **Error Handling:** Handle possible errors during the file reading (e.g., file not found), missing data, or incorrect data types by using exception-handling mechanisms (try, except).
 
-4. Submission: Ensure your submission is complete with all necessary code and explanations. Make sure that each plot is properly labeled and provides insights into the dataset.
+4. **Submission:** Ensure your submission is complete with all necessary code and explanations. Make sure that each plot is properly labeled and provides insights into the dataset.
