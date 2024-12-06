@@ -9,46 +9,55 @@ This comprehensive course offers a solid foundation in computer programming usin
 ## Course Outline
 
 ### Week 1: Introduction to Python
+
 - Overview of Python
 - Setting up Python environment
 - Writing your first Python program
 
 ### Week 2: Python Built-in Data Structures
+
 - Lists, Tuples, and Dictionaries
 - Sets and Strings
 - Operations and Manipulation
 
 ### Week 3: Control Flows & Functions in Python
+
 - Conditional Statements (if, else, elif)
 - Loops (for, while)
 - Defining and using functions
 
 ### Week 4: File Handling and Exception Handling
+
 - Reading and writing files
 - Handling exceptions with `try`, `except`, `finally`
 - Working with different file types (text, CSV)
 
 ### Week 5: Object-Oriented Programming (OOP)
+
 - Classes and Objects
 - Inheritance and Polymorphism
 - Encapsulation and Abstraction
 
 ### Week 6: Python Libraries
+
 - Introduction to popular Python libraries (e.g., NumPy, Pandas, Matplotlib)
 - How to install and use libraries
 - Creating simple scripts with libraries
 
 ### Week 7: Basic Data Analysis
+
 - Loading data with Pandas
 - Data cleaning and manipulation
 - Data visualization with Matplotlib and Seaborn
 
 ### Week 8: Final Project
+
 - Integrating all the concepts learned
 - Building a project of your choice
 - Presenting and discussing your project
 
 ### The Grand Finale 🏆
+
 - A final review of the course
 - Tips and best practices for Python programming
 - Next steps and further learning opportunities
